@@ -73,7 +73,7 @@ body {
 
 .sidebar ul li a:hover,
 .sidebar ul li a.active {
-    background: #007BFF;
+    background: rgba(255, 255, 255, 0.1);   
 }
 
 .icons {
@@ -120,7 +120,7 @@ body {
 }
 
 .about-me h1 {
-    color: #007BFF;
+    color: #ffffff;
 }
 
 .details {
@@ -132,7 +132,7 @@ body {
 }
 
 .info {
-    background: #007BFF;
+    background: #3d454e;
     color: white;
     padding: 10px;
     border-radius: 5px;
@@ -151,7 +151,7 @@ body {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    border: 4px solid #007BFF;
+    border: 4px solid #ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
